@@ -1,0 +1,15 @@
+[submodule "figure"]
+	path = figure
+	url = https://github.com/ome/figure
+[submodule "weberror"]
+	path = weberror
+	url = https://github.com/openmicroscopy/weberror
+[submodule "gallery"]
+	path = gallery
+	url = https://github.com/ome/gallery
+[submodule "webtest"]
+	path = webtest
+	url = https://github.com/openmicroscopy/webtest
+[submodule "webtagging"]
+	path = webtagging
+	url = https://github.com/MicronOxford/webtagging
